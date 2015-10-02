@@ -1,4 +1,13 @@
 # NexT
+## Fork By Conan, the source is from [Next](https://github.com/iissnan/hexo-theme-next)
+
+## 修改的部分
+1. Enable 分类，标签等 in Menu
+2. 修改代码高亮主题
+3. 添加侧边栏头像
+4. 添加about & 404页面
+
+---
 
 > 精于心，简于形
 

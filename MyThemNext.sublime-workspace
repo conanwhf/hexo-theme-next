@@ -1,0 +1,319 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 2417,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main_config.yml",
+			"settings":
+			{
+				"buffer_size": 2135,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 260.0,
+		"selected_items":
+		[
+			[
+				"mp",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"Code Folding: Unfold All"
+			],
+			[
+				"",
+				"Build: Run"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/conan/SourceCode/GitBlog/themes/next-conan/source/404.html",
+		"/Users/conan/SourceCode/GitBlog/themes/next-conan/README.md",
+		"/Users/conan/SourceCode/GitBlog/themes/oishi-conan/_config.yml",
+		"/Users/conan/SourceCode/GitBlog/_config.yml",
+		"/Users/conan/SourceCode/GitBlog/themes/oishi-conan/README.md",
+		"/Users/conan/SourceCode/GitBlog/themes/oishi-conan/source/css/_variables.styl",
+		"/Users/conan/SourceCode/GitBlog/public/css/style.css",
+		"/Users/conan/SourceCode/GitBlog/themes/oishi-conan/source/css/_partial/header.styl",
+		"/Users/conan/SourceCode/GitBlog/themes/oishi-conan/source/css/_partial/sidebar.styl",
+		"/Users/conan/SourceCode/GitBlog/themes/oishi-conan/source/css/_partial/sidebar-aside.styl",
+		"/Users/conan/SourceCode/GitBlog/themes/oishi-conan/source/css/_partial/menu.styl",
+		"/Users/conan/SourceCode/GitBlog/themes/oishi-conan/source/css/_partial/sidebar-bottom.styl",
+		"/Users/conan/SourceCode/GitBlog/themes/oishi-conan/source/css/scrollUp/image.css",
+		"/Users/conan/SourceCode/GitBlog/themes/oishi-conan/source/css/_extend.styl",
+		"/Users/conan/SourceCode/GitBlog/themes/oishi-conan/source/css/style.styl",
+		"/Users/conan/SourceCode/GitBlog/themes/oishi-conan/layout/layout.ejs",
+		"/Users/conan/SourceCode/GitBlog/themes/oishi-conan/layout/_partial/social.ejs",
+		"/Users/conan/SourceCode/GitBlog/themes/oishi-conan/layout/_partial/sidebar.ejs",
+		"/Users/conan/SourceCode/GitBlog/themes/oishi-conan/layout/page.ejs",
+		"/Users/conan/SourceCode/GitBlog/themes/oishi-conan/layout/index.ejs",
+		"/Users/conan/SourceCode/GitBlog/themes/oishi-conan/layout/_partial/head.ejs",
+		"/Users/conan/SourceCode/GitBlog/source/_posts/MyLink.md",
+		"/Users/conan/SourceCode/GitBlog/themes/oishi/source/css/_partial/header.styl",
+		"/Users/conan/SourceCode/GitBlog/themes/oishi/_config.yml",
+		"/Users/conan/SourceCode/GitBlog/themes/oishi/README.md",
+		"/Users/conan/SourceCode/GitBlog/themes/oishi/source/js/jquery.transform.js",
+		"/Users/conan/SourceCode/GitBlog/themes/oishi/layout/page.ejs",
+		"/Users/conan/SourceCode/GitBlog/source/_posts/Hexo.md",
+		"/Users/conan/Library/Application Support/Sublime Text 2/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/conan/Google 云端硬盘/other-backup-20150908.opml",
+		"/Users/conan/Google 云端硬盘/news-backup-20150908.opml",
+		"/Users/conan/Google 云端硬盘/dev-backup-20150908.opml",
+		"/Users/conan/Google 云端硬盘/it-backup-20150908.opml",
+		"/Volumes/Win7DL/_ePubFiles/书籍目录/7000本电子书合集目录2.txt",
+		"/Users/conan/Desktop/apktool.sh",
+		"/Users/conan/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/conan/Documents/src/BSP/kernel-2.6.37.sublime-workspace",
+		"/Users/conan/Documents/src/BSP/kernel-2.6.37.sublime-project",
+		"/Users/conan/Dropbox/temp.md",
+		"/Users/conan/Downloads/MyMoneyPro-[R]-[金叶账本]-[conanwhf@icloud.com]-[20633965545]-20150429133610.kbf",
+		"/Users/conan/Library/Application Support/Unclutter/FileStorage/temp.md 替身",
+		"/Users/conan/Library/Preferences/com.eusoft.freeeudic.plist",
+		"/Users/conan/Documents/Code/BSP/Kernel/linux-2.6.37-ssl/drivers/input/touchscreen/ssl/multiTouch/SSD2532.c"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"<open folders>",
+			"pmem.c",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"head",
+			"ban",
+			"logo",
+			"side",
+			"logo",
+			"padding",
+			"logo-size",
+			"title",
+			"titlen",
+			"title",
+			"rss",
+			"mail",
+			"email",
+			"title-size",
+			"title",
+			"git",
+			"github",
+			"",
+			"2DGA",
+			"ssl_2dga",
+			"2dga",
+			"ssldma",
+			"dma_cfg",
+			"pmem"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"-"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"settings":
+					{
+						"buffer_size": 2417,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2416,
+								2416
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main_config.yml",
+					"settings":
+					{
+						"buffer_size": 2135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								179,
+								179
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 263.0
+	},
+	"output.markdown":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
