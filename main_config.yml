@@ -109,12 +109,17 @@ links:
   慕课网: http://www.imooc.com/
   经典斯坦福公开课: http://open.163.com/special/opencourse/ios8.html
 
-#插件，例如生成 RSS 和站点地图的
+# 插件，例如生成 RSS 和站点地图的
 plugins: 
 - hexo-generator-feed
 - hexo-generator-sitemap
+- hexo-generator-baidu-sitemap
 
+# 搜索引擎sitemap
 sitemap:
   path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
 
+# Years
 since: 2015
