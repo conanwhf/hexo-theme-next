@@ -103,20 +103,4 @@ social:
  # rss: /atom.xml
   MailtoMe: mailto:conanwhf@gmail.com
 
-# 搜索引擎&站点分析
-google_analytics: UA-68644901-1
-#(cafe)google_analytics: UA-68644901-2
-baidu_analytics: 99ff66396b2736a42a7744075ec7fa1c
-baidu_site_verification: HnBZtBD6xL
-#(hub)baidu_analytics: 
-#google_site_verification: XXXXXXXXXXXXXXXXXXXXXXX
-#(cafe)google_site_verification:
-swiftype_key: -wAdEzF15RczmAqPJh93
-#(hub)swiftype_key: K-tMCpYTHZY2mhvLxmuy
 
-# 百度分享服务
-baidushare: true
-# 多说分享服务
-duoshuo_share: true
-# 多说热评文章 true 或者 false
-duoshuo_hotartical: true
