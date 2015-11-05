@@ -11,7 +11,7 @@ menu:
 favicon: /favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo,next"
+keywords: "Conan"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -29,7 +29,7 @@ icon_font: fifty-shades
 # Code Highlight theme
 # Available value: normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: night
+highlight_theme: night eighties
 
 
 # MathJax Support
@@ -102,5 +102,3 @@ social:
   Weibo: http://weibo.com/1864854042
  # rss: /atom.xml
   MailtoMe: mailto:conanwhf@gmail.com
-
-
