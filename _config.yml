@@ -102,3 +102,8 @@ social:
   Weibo: http://weibo.com/1864854042
  # rss: /atom.xml
   MailtoMe: mailto:conanwhf@gmail.com
+
+# 首页显示摘要
+auto_excerpt:
+  enable: true
+  length: 500
