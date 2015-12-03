@@ -59,7 +59,7 @@ toc_list_number: true
 # Automatically Excerpt
 auto_excerpt:
   enable: false
-  length: 150
+  length: 500
 
 # Use Lato font
 # Note: this option is avialable only when the language is not `zh-Hans`
@@ -103,7 +103,3 @@ social:
  # rss: /atom.xml
   MailtoMe: mailto:conanwhf@gmail.com
 
-# 首页显示摘要
-auto_excerpt:
-  enable: true
-  length: 500
