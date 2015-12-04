@@ -94,9 +94,9 @@ marked:
 
 # # number per page
 index_generator:
-  per_page: 5
+  per_page: 8
 archive_generator:
-  per_page: 20
+  per_page: 15
   yearly: true
   monthly: true
 tag_generator:
