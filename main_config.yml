@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://conanwhf.gitcafe.io
+url: http://conanwhf.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -73,8 +73,8 @@ deploy:
   repo: https://github.com/conanwhf/conanwhf.github.io.git
   branch: master
 - type: git
-  repo: https://gitcafe.com/conanwhf/conanwhf.git
-  branch: gitcafe-pages
+  repo: https://git.coding.net/conanwhf/conanwhf.git
+  branch: coding-pages
 
 ## RSS Fees
 feed:
@@ -108,7 +108,7 @@ category_generator:
 links_title: Links
 # links
 links:
-  本站墙内链接: http://conanwhf.gitcafe.io
+  本站墙内链接: http://conanwhf.coding.me
   本站墙外链接: http://conanwhf.github.io
   我的资源收集: https://github.com/conanwhf/ResourceDoc
   学习进度表: http://conanwhf.github.io/2015/09/06/RoadMap/
@@ -131,8 +131,8 @@ baidusitemap:
 # 搜索引擎&站点分析
 google_analytics: UA-68644901-1
 #(cafe)google_analytics: UA-68644901-2
-baidu_analytics: 99ff66396b2736a42a7744075ec7fa1c
-baidu_site_verification: HnBZtBD6xL
+baidu_analytics: 8da63524978598168c3843bc8001d968
+baidu_site_verification: g1ag6ZODOB
 google_site_verification: fm7O971xqa-IgxCWIey5wM-1kAOR1sTDp_gZfHxonGc
 #(cafe)google_site_verification:
 swiftype_key: -wAdEzF15RczmAqPJh93
@@ -154,7 +154,7 @@ indicate_the_source:
   element_class: source
   domain_white_list:
     - conanwhf.github.io
-    - conanwhf.gitcafe.io
+    - conanwhf.coding.me
     - toutiao.io
     - 0.0.0.0
   template: "<blockquote><p>你看到的是非授权版本！爬虫凶猛，请尊重知识产权！</p><p>转载请注明出处：<%- post.permalink %></p><p>访问原文「<a href='<%- post.permalink %>'><%- post.title %></a>」获取最佳阅读体验并参与讨论</p></blockquote>"
