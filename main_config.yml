@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://conanwhf.coding.me/
+url: http://conanwhf.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -108,9 +108,9 @@ category_generator:
 links_title: Links
 # links
 links:
-  本站墙内链接: http://conanwhf.coding.me
-  本站墙外链接: http://conanwhf.github.io
-  我的iOS资源收集(Swift): https://github.com/conanwhf/ResourceDoc
+  本站地址: http://conanwhf.github.io
+  本站镜像: http://conanwhf.coding.me
+  iOS资源收集(Swift): https://github.com/conanwhf/ResourceDoc
   #学习进度表: http://conanwhf.github.io/2015/09/06/RoadMap/
   #练手小项目清单: https://github.com/conanwhf/ResourceDoc/blob/master/tryList.md
   #慕课网: http://www.imooc.com/
@@ -130,10 +130,11 @@ baidusitemap:
 
 # 搜索引擎&站点分析
 google_analytics: UA-68644901-1
-baidu_analytics: 8da63524978598168c3843bc8001d968
+#baidu_analytics: 8da63524978598168c3843bc8001d968
+baidu_analytics: 216209cca8026e16aa970c3db256725e
 baidu_site_verification: g1ag6ZODOB
 google_site_verification: fm7O971xqa-IgxCWIey5wM-1kAOR1sTDp_gZfHxonGc
-swiftype_key: -wAdEzF15RczmAqPJh93
+#swiftype_key: -wAdEzF15RczmAqPJh93
 #(hub)swiftype_key: K-tMCpYTHZY2mhvLxmuy
 # 百度分享服务
 #baidushare: true
